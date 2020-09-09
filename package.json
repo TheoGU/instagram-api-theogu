@@ -1,6 +1,6 @@
 {
   "name": "instagram-api-theogu",
-  "version": "2.2.0",
+  "version": "2.2.2",
   "description": "Instagram api",
   "license": "MIT",
   "main": "lib/index.js",
